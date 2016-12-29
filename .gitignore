@@ -1,3 +1,8 @@
+# Dependency
+*.d
+*.dep
+
+
 # Object files
 *.o
 *.ko
@@ -28,3 +33,9 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Project files
+*.lnp
+*.lst
+*.axf
+*build_log.htm
